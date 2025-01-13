@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<service>
+  <short>mosh</short>
+  <description>Mosh is a remote terminal application that allows roaming between connections.</description>
+  <port protocol="udp" port="60000-61000"/>
+</service>
